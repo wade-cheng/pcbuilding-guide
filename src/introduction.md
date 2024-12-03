@@ -1,7 +1,13 @@
 # Introduction
 
-Building a computer can be an intimidating task, especially for someone who has no experience with computer parts or knowledge of hardware. This documentation will provide you the knowledge to find what parts are the best for your specific intended use as well as guiding you through the process of assembling the computer to be functional. To help you overcome this task, we have divided this documentation into three separate sections:
+Building a computer can be an intimidating task, especially for someone who has no experience with computer parts or knowledge of hardware. To overcome this, our documentation will guide you from start to finish in this process.
 
-- Different Use Cases
-- Choosing Parts
-- Assembly
+Our guide includes three sequential sections:
+
+## Different Use Cases
+Four critical parts will determine the performance of your system. However, they influence performance in different ways. This section will explain use-case-specific details you should consider as you choose parts.
+
+## Choosing Parts
+Once you have any relevant use cases in mind, this section will guide you through a comprehensive list of parts that will make up a PC build.
+
+## Assembly
