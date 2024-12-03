@@ -7,6 +7,7 @@
 - [Gaming](./use-cases/gaming.md)
 
 # Choosing Parts
+- [Vendor](./choosing-parts/vendor)
 - [CPU](./choosing-parts/cpu)
 - [CPU Cooler](./choosing-parts/cpu-cooler)
 - [Motherboard](./choosing-parts/motherboard)
