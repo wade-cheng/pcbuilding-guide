@@ -2,6 +2,8 @@
 
 Building a computer can be an intimidating task, especially for someone who has little experience with software requirements or knowledge of computer parts. To overcome this, our documentation will guide you though this process from start to finish.
 
+You may navigate this site with the left and right arrow keys and search for terms with the magnifying glass in the top left of the page.
+
 Our guide includes three sequential sections:
 
 ## Different Use Cases
