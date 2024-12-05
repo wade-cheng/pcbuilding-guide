@@ -2,9 +2,10 @@
 
 - [Introduction](./introduction.md)
 # Different Use Cases
-- [CAD](./use-cases/cad.md)
-- [Video Editing](./use-cases/video-editing.md)
-- [Gaming](./use-cases/gaming.md)
+- [Use Cases](./use-cases/use-cases.md)]
+    - [CAD](./use-cases/cad.md)
+    - [Video Editing](./use-cases/video-editing.md)
+    - [Gaming](./use-cases/gaming.md)
 
 # Choosing Parts
 - [Vendor](./choosing-parts/vendor.md)
