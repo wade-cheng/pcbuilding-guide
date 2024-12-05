@@ -22,3 +22,6 @@
 
 # Assembly
 - [Assembly](./assembly/assembly.md)
+
+# Acknowledgements
+- [Acknowledgements](./acknowledgements/acknowledgements.md)
