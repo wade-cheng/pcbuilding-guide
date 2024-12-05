@@ -15,7 +15,7 @@
     - [Cooling](./choosing-parts/cpu-cooler.md)
     - [Motherboard](./choosing-parts/motherboard.md)
     - [CPU](./choosing-parts/cpu.md)
-    - [Memory](./choosing-parts/memory.md)
+    - [Memory (RAM)](./choosing-parts/memory.md)
     - [Storage](./choosing-parts/storage.md)
     - [Video Card (GPU)](./choosing-parts/video-card.md)
     - [Operating System](./choosing-parts/operating-system.md)
