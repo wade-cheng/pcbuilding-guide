@@ -13,4 +13,4 @@ The performance of your system is decided by four critical parts: CPU, GPU, Stor
 Once you have any relevant use cases in mind, this section will guide you through a comprehensive list of parts that will make up a PC build.
 
 ## Assembly
-[TODO]
+Finally, you will build your computer with the parts you chose. This section will walk you through the assembly process with detailed instructions and visual aids. 
