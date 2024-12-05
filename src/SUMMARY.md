@@ -21,4 +21,4 @@
     - [Operating System](./choosing-parts/operating-system.md)
 
 # Assembly
-- [todo]()
+- [Assembly](./assembly/assembly.md)
