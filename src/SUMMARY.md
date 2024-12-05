@@ -19,7 +19,6 @@
     - [Storage](./choosing-parts/storage.md)
     - [Video Card (GPU)](./choosing-parts/video-card.md)
     - [Operating System](./choosing-parts/operating-system.md)
-    - [Peripherals](./choosing-parts/peripherals.md)
 
 # Assembly
 - [todo]()
